@@ -1,2 +1,2 @@
 # Manual-Testing
-Sofware Testing-Manual Testing Works
+Software Testing-Manual Testing Works
